@@ -1,0 +1,7 @@
+cat
+dog
+cow
+horse
+llama
+sheep
+lizard
